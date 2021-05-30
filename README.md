@@ -1,2 +1,1 @@
-# pradipgiri.github.io
-Resume
+# Resume
